@@ -1,4 +1,5 @@
 [![Dara Force — We make it happen.](./assets/daraforce-banner.png)](https://www.daraforce.com/)
+
 <p align="center">
   <a href="https://www.daraforce.com/">
     <img src="./assets/daraforce-banner.png" alt="Dara Force · AI-Native · We make it happen" width="100%">
