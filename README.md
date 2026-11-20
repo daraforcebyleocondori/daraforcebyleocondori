@@ -1,9 +1,13 @@
-<div align="center">
-  <h1>DARA FORCE</h1>
-  <p><strong>AI-Native · Enterprise AI</strong></p>
-  <p><em>We make it happen.</em></p>
-  <p><a href="https://www.daraforce.com/">daraforce.com</a></p>
-</div>
+[![Dara Force — We make it happen.](./assets/daraforce-banner.png)](https://www.daraforce.com/)
+<p align="center">
+  <a href="https://www.daraforce.com/">
+    <img src="./assets/daraforce-banner.png" alt="Dara Force · AI-Native · We make it happen" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>OpenAI Partner Network</strong> · <a href="https://www.daraforce.com/">daraforce.com</a>
+</p>
 
 ---
 
